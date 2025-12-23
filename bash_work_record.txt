@@ -1,0 +1,190 @@
+    1  pwd
+    2  ls
+    3  ls -l
+    4  ls -a
+    5  cd ~
+    6  cd /
+    7  cd /tmp
+    8  cd ..
+    9  mkdir testdir
+   10  pwd
+   11  cd ~
+   12  pwd
+   13  mkdir testdir
+   14  mkdir -p folder1/folder2/folder3
+   15  touch file1.txt
+   16  touch file2.txt
+   17  ls -l
+   18  rm file1.txt
+   19  rmdir emptyfolder
+   20  rm -r testdir
+   21  touch a.txt b.txt c.txt
+   22  mkdir backups
+   23  cp a.txt backups/
+   24  cp b.txt c.txt backups/
+   25  cp -r folder1 backups/
+   26  Is backups
+   27  is backups
+   28  mv a.txt newname.txt
+   29  mv newname.txt backups/
+   30  mv backups moved_backups
+   31  nano sample.txt
+   32  vi testvim.txt
+   33  vim myfile.txt
+   34  git --version
+   35  cd C:\Users\neran\Downloads
+   36  cd C/Users/neran/Downloads
+   37  cd /c/Users/neran/Downloads
+   38  mkdir testGit
+   39  cd testGit
+   40  git clone https://github.com/Neranjana78/testOne
+   41  cd testOne
+   42  git add notes\ text.txt
+   43  git commit -m "Added Four and Five"
+   44  git push
+   45  git status
+   46  git log -1
+   47  git push origin main
+   48  git push origin main
+   49  git int
+   50  git init
+   51  git status
+   52  git add Notes Assignment.txt
+   53  git init
+   54  git status
+   55  git add Notes Assignment.txt
+   56  ls
+   57  git add Notes Assignment.txt
+   58  git add Notes\ Assignment.txt
+   59  git log --oneline --all --graph
+   60  ls -a
+   61  git switch master
+   62  git branch -d feature
+   63  git branch -D feature
+   64  git branch -D hotfix
+   65  git branch
+   66  git init
+   67  git status
+   68  pwd
+   69  ls
+   70  ls -l
+   71  ls -a
+   72  mkdir squirrel
+   73  cd squirrel
+   74  cd ..
+   75  cd squirrel
+   76  cd ~
+   77  pwd
+   78  cd squirrel
+   79  cd /
+   80  mkdir -p animal/cat/kitten
+   81  cd ~
+   82  mkdir -p animal/cat/kitten
+   83  cd animal
+   84  cd cat
+   85  cd kitten
+   86  cd /
+   87  cd ~
+   88  cd animal
+   89  touch dog.txt
+   90  mkdir practice
+   91  cd practice
+   92  touch firstpractice.txt
+   93  touch secondpractice.txt
+   94  ls
+   95  cp one.txt copy.txt
+   96  cp firstpractice.txt copy.txt
+   97  cp -r squirrel animal
+   98  mkdir birds
+   99  cp -r birds animal
+  100  cd ..
+  101  ls
+  102  cd ..
+  103  cp -r birds animal
+  104  mkdir creatures
+  105  cp -r creatures animals
+  106  cd animals
+  107  ls
+  108  ls
+  109  ls
+  110  cd ..
+  111  ls
+  112  cd animals
+  113  ls
+  114  mv secondpractice.txt newname.txt
+  115  cd practice
+  116  echo "Tomorrow i have class"
+  117  echo $BASH_VERSION
+  118  touch input.sh
+  119  nano input.sh
+  120  chmod +x input.sh
+  121  ./input.sh
+  122  touch inuput1.sh
+  123  nano input1.sh
+  124  bash input1.sh
+  125  nano input1.sh
+  126  bash input1.sh
+  127  touch input2.sh
+  128  nano input2.sh
+  129  bash input2.sh
+  130  touch check_file.sh
+  131  nano check_file.sh
+  132  bash check_file.sh
+  133  nano check_file.sh
+  134  bash check_file.sh
+  135  bash check_file.sh
+  136  mkdir happy
+  137  bash check_file.sh
+  138  touch check_num.sh
+  139  nano check_num.sh
+  140  bash check_num.sh
+  141  nano check_num.sh
+  142  bash check_num.sh
+  143  nano check_num.sh
+  144  bash check_num.sh
+  145  touch list_folder.sh
+  146  nano list_folder.sh
+  147  mkdir animals
+  148  mkdir animal
+  149  mkdir colours
+  150  cd colours
+  151  touch red.txt
+  152  touch blue.txt
+  153  touch green.txt
+  154  touch yellow.txt
+  155  mkdir pastelcolours
+  156  cd pastelcolours
+  157  touch lavender.txt
+  158  touch onionpinl.txt
+  159  cd ../../
+  160  bash list_file.sh
+  161  bash list_folder.sh
+  162  touch show_info.sj
+  163  touch show_info.sh
+  164  nano show_info.sh
+  165  bash show_info.sh
+  166  nano show_info.sh
+  167  bash show_info.txt
+  168  bash show_info.sh
+  169  cat funDemo.sh
+  170  touch funDemo.sh
+  171  nano fileDemo.sh
+  172  bash fileDemo.sh
+  173  nano fileDemo.sh
+  174  chmod +x fileDemo.sh
+  175  ./fileDemo.sh one 2 3 4 5 6 7 8 9 ten 11
+  176  nano fileDemo.sh
+  177  ./fileDemo.sh one 2 3 4 5 6 7 8 9 ten
+  178  touch arr.sh
+  179  nano arr.sh
+  180  bash arr.sh
+  181  nano arr.sh
+  182  bash arr.sh
+  183  nano arr.sh
+  184  bash arr.sh
+  185  nano arr.sh
+  186  bash arr.sh
+  187  nano arr.sh
+  188  bash arr.sh
+  189  history > bash_work_record.txt
+  190  history | tee bash_work_record.txt
